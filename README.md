@@ -35,13 +35,13 @@ There should be one Admin account, which will manage Job Posts
 You should implement the following functionality:
 User Registration (Job Seekers only)
 User Login
-Job Post data
+## Job Post data
 You should implement the following functionality:
 Job Post must have: title, description
 Create a new Job Post (Admin)
 Update or delete existing Job Post (Admin)
 List all Job Applications (Admin & Job Seeker)
-Job Applications
+## Job Applications
 You should implement the following functionality:
 Job seekers apply to any job by creating a Job Application that will have a status of (Not Seen) by default
 When an Admin User views a Job Application this will change their status to (Seen)
